@@ -29,7 +29,7 @@ Ir tekstas pasikeičia taip, kaip skaitymas gali jaustis žmogui su disleksija.
 
 → 6 lygiai, kiekvienas su mokslo šaltiniu ir įvertinimu A, B arba C
 → kamera, nuotrauka arba įklijuotas tekstas
-→ viskas vyksta tavo telefone, niekas niekur nesiunčiama
+→ tekstas ir vaizdas apdorojami tavo telefone, niekur nesiunčiami
 → lietuviškai ir angliškai
 
 **Svarbu:** disleksija nėra „blogos akys". Tai smegenų skirtumas: sunkiau greitai susieti raides su garsais. Čia tai parodyta vaizdu, kad galėtum pajausti pastangas. Kiekvienas žmogus skirtingas. Tai ne diagnozė.
@@ -42,10 +42,10 @@ Kiekvienas lygis prideda vieną sluoksnį. Tikrovėje kiekvienas žmogus turi sa
 |---|---|---|
 | 0 | Įprastai, palyginimui | |
 | 1 | **Susigrūdimas:** raidės sulimpa su kaimynėmis | B · Zorzi ir kt., 2012, PNAS |
-| 2 | **Lėtas skaitymas:** aiškus tik vienas žodis vienu metu | A · tarptautinis sutarimas; Martelli ir kt., 2009 |
+| 2 | **Lėtas skaitymas:** aiškus tik vienas žodis vienu metu | A · IDA; Lyon, Shaywitz ir Shaywitz, 2003 |
 | 3 | **Veidrodinės raidės:** b virsta d, p virsta q | B · Scientific Reports, 2025 |
 | 4 | **Raidžių vieta:** „kalba" tampa „klaba" | B · Friedmann ir Rahamim, 2007 |
-| 5 | **Garsai:** b ir p, d ir t, s ir z susimaišo | A · Frontiers in Education, 2020 (apžvalga) |
+| 5 | **Garsai:** b ir p, d ir t, s ir z susimaišo | A · Peterson ir Pennington, 2012, The Lancet |
 | 6 | **Mirgėjimas:** žodžiai banguoja, atsiranda „šešėlinės" eilutės | C · tik asmeniniai pasakojimai |
 
 A = stiprūs, pakartoti įrodymai · B = vienas tvirtas tyrimas ar potipis · C = ginčytina arba tik pasakojimai.
@@ -54,7 +54,7 @@ A = stiprūs, pakartoti įrodymai · B = vienas tvirtas tyrimas ar potipis · C 
 
 ### Apie mane
 
-Mokykloje viename diktante padariau 30 klaidų.
+Iki 3–4 klasės praktiškai nemokėjau skaityti. Viename diktante padariau 30 klaidų.
 
 Turiu disleksiją. Šiandien knygas „skaitau" ausimis: per metus daugiau nei 40 audioknygų. O savo knygą diktuoju.
 
@@ -76,7 +76,7 @@ The text changes to show how reading can feel for someone with dyslexia.
 
 → 6 levels, each with a research source and an A, B or C grade
 → camera, photo upload or pasted text
-→ everything runs on your phone, nothing is sent anywhere
+→ text and images are processed on your phone and never sent anywhere
 → Lithuanian and English
 
 **Important:** dyslexia isn't "bad eyes". It's a brain difference: linking letters to sounds quickly is harder. The tool shows it as a picture so you can feel the effort. Everyone is different. This is not a diagnosis.
@@ -85,19 +85,19 @@ The text changes to show how reading can feel for someone with dyslexia.
 |---|---|---|
 | 0 | Typical, for comparison | |
 | 1 | **Crowding:** letters stick to their neighbours | B · Zorzi et al., 2012, PNAS |
-| 2 | **Slow reading:** only one word is clear at a time | A · international consensus; Martelli et al., 2009 |
+| 2 | **Slow reading:** only one word is clear at a time | A · IDA; Lyon, Shaywitz & Shaywitz, 2003 |
 | 3 | **Mirror letters:** b turns into d, p into q | B · Scientific Reports, 2025 |
 | 4 | **Letter position:** "form" becomes "from" | B · Friedmann & Rahamim, 2007 |
-| 5 | **Sounds:** b and p, d and t, s and z get mixed up | A · Frontiers in Education, 2020 (review) |
+| 5 | **Sounds:** b and p, d and t, s and z get mixed up | A · Peterson & Pennington, 2012, The Lancet |
 | 6 | **Shimmer:** words wave and "ghost" lines appear | C · personal accounts only |
 
 "Jumping letters" only show up at level 6. The International Dyslexia Association calls that kind of simulation "compelling, powerful, and wrong", so the tool starts with what research supports: slowness, effort, sounds.
 
 ### About me
 
-I couldn't read a page properly until I was 11.
+I could barely read until 3rd or 4th grade. In one dictation I made 30 mistakes.
 
-I'm dyslexic. At school I once made 30 mistakes in a single dictation. Today I read with my ears, 40+ audiobooks a year. And I'm dictating my own book.
+I'm dyslexic. Today I read with my ears, 40+ audiobooks a year. And I'm dictating my own book.
 
 For more than a decade I've built after-school clubs where kids BUILD technology. I founded **Robotikos Akademija** (12,000+ kids a year), co-founded **ExoClass** and created **BrAIn Club**.
 
@@ -130,9 +130,9 @@ No login, no cookies without consent. The camera image and the text never leave 
 
 - Zorzi M. et al. (2012). Extra-large letter spacing improves reading in dyslexia. *PNAS* 109(28). https://pubmed.ncbi.nlm.nih.gov/22665803/
 - Martelli M. et al. (2009). Crowding, reading, and developmental dyslexia. *Journal of Vision* 9(4). https://iris.uniroma1.it/handle/11573/364327
-- *Scientific Reports* (2025): study of mirror-letter errors (b/d) in beginning readers. https://link.springer.com/article/10.1038/s41598-025-21092-5
+- *Scientific Reports* (2025). Mirror invariance dies hard during letter processing by dyslexic college students. https://link.springer.com/article/10.1038/s41598-025-21092-5
 - Friedmann N. & Rahamim E. (2007). Developmental letter position dyslexia. https://researchers.mq.edu.au/en/publications/letter-position-dyslexia/
-- *Frontiers in Education* (2020): review article on the causes of dyslexia. https://www.frontiersin.org/articles/10.3389/feduc.2020.00118/full
+- Lyon G.R., Shaywitz S.E. & Shaywitz B.A. (2003). A definition of dyslexia. *Annals of Dyslexia* 53. https://doi.org/10.1007/s11881-003-0001-9
 - Griffiths P. et al. (2016), *Ophthalmic & Physiological Optics*: review of the evidence on coloured overlays and visual stress. https://pubmed.ncbi.nlm.nih.gov/27580753/
 - International Dyslexia Association. Online dyslexia simulation is compelling, powerful, and wrong. https://dyslexiaida.org/online-dyslexia-simulation-is-compelling-powerful-and-wrong
 - Peterson R. & Pennington B. (2012). Developmental dyslexia. *The Lancet*. Prevalence about 5–10 %, depending on criteria. https://www.eurekalert.org/news-releases/691417
