@@ -6,7 +6,7 @@
 👉 **LT:** https://krisvas333.github.io/disleksija/
 👉 **EN:** https://krisvas333.github.io/disleksija/en/
 
-Be prisijungimo. Nemokamai. Veikia bet kuriame telefone. · No login. Free. Works on any phone.
+Be prisijungimo. Nemokamai. Veikia telefone ir kompiuteryje. · No login. Free. Works on phones and computers.
 
 > 🧪 **TESTAS / TEST.** Tai eksperimentas. Puslapyje gali jį įvertinti (anonimiškai). · This is an experiment. You can rate it on the page (anonymously). Comments: [Issues](https://github.com/KrisVas333/disleksija/issues).
 
@@ -111,7 +111,7 @@ What's the hardest thing for your kid to read? Tell me 👇
 ## ⚙️ How it works
 
 1. The phone camera (`getUserMedia`) grabs a frame.
-2. [Tesseract.js](https://github.com/naptha/tesseract.js) reads every word **on the device** (Lithuanian + English models, ~5 MB, cached after the first use) and returns each word's box and baseline.
+2. [Tesseract.js](https://github.com/naptha/tesseract.js) reads every word **on the device** (Lithuanian + English models + engine, ~6 MB, cached after the first use) and returns each word's box and baseline.
 3. Each word is painted over in the paper colour and redrawn on a `<canvas>` with the level's effect (letter spacing, fading reading window, b/d swaps, interior swaps, sound-alike swaps, shimmer).
 
 Why not WebXR? iPhone Safari doesn't support WebXR, and most parents use iPhones. Camera + canvas works everywhere. The **Meta Quest 3** version (WebXR) is in progress.
@@ -143,3 +143,13 @@ No login, no cookies without consent. The camera image and the text never leave 
 Experimental prototype, built with AI. It can be wrong, so check important things with a specialist. Free. Found a mistake? Open an issue or write to me at [krisvas.lt](https://krisvas.lt/?src=github).
 
 Code: MIT licence. Built with [Claude Code](https://claude.com/claude-code).
+
+## 🛠️ Changes · Pakeitimai
+
+**v1.4 (2026-11-04), device and usability fixes. Usage logs showed 7 of 11 camera attempts failing after launch day (a small sample, with no device data, 8 of 21 overall):**
+- Camera failed? Now a help panel explains why, for your device, and offers a native photo, text or retry.
+- Opened inside Facebook, Instagram, Messenger or TikTok? A banner explains and helps you open a real browser.
+- Levels stay on screen next to the image on phones. Text mode is readable on phones (19 px, was 10–13 px).
+- After a scan, "Retake" returns to the live camera. Rotation and returning to the tab work.
+- Fixed: challenge timer freezing, camera staying on after Back, wrong "no text" message when the network fails.
+- Respects "reduce motion". Added a share image, icon and a QR code for computers.
